@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "WebAppAgenda"
+    }
+  },
+  "defaultProject": "WebAppAgenda",
+  "cli": {
+    "analytics": false
+  }
 }
