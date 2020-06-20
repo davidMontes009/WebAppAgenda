@@ -6,6 +6,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## PreRequisitos  
+De preferencia correr el proyecto con Code
+Angual JS
+Node JS
+
+
 ## Pasos para correr el proyecto 
 Para poder consumir los servicios en necesario correrlos en local y revisar puerto que le asigne su computadora en mi caso el proyecto de apis corre en  https://localhost:44364/
 En caso de que cambie tu puerto lo puedes cambiar en el archivo global.ts que se encuentra en la ruta src/app/services/global.ts
